@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "**/XCUIElementTypeOther[`name == \"Password\"`][1]"
+}
